@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("../images/nasa.jpg");
+    background-image: url("/Users/paolozambrano/Desktop/Todo/Data_Analyst_Projects/module_11/UFOs/static/images/earth.jpg");
     background-size: 100% 100%;
     text-align: center;
   }
