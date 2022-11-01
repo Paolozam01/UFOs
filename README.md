@@ -6,7 +6,9 @@ The whole purpose of this task is to help Dana create a visualization for her da
 
 ## Results:
 
+<img width="1908" alt="Screen Shot 2022-11-01 at 17 49 27" src="https://user-images.githubusercontent.com/108498940/199363089-1d569346-3a68-46cc-8a96-535597f2657b.png">
 
+As we can see on the image above, the HTML page is atractive and easy to understand for anyone interested on this information. On the left side we can see the filter options where you can be able to filter the data by date, city, state, country and shape. The filters entered will be displayed on the right side with all the information that matches the filters requested. 
 
 ## Summary: 
 
