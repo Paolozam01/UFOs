@@ -12,4 +12,4 @@ As we can see on the image above, the HTML page is atractive and easy to underst
 
 ## Summary: 
 
-
+This visualizatio is greate for anyone interested on UFO sighting but ther is always room for improvment. I could spot two main drawbacks for this visualization which is that the information has te be updated manually and the filters are not very friendly. The user has to write the filter exactly as it is on the database which is not very user friendly. I would recommend the use of APIs in order to have the database to update automatically and also make the filter more userfriendly making it able to detect incorrect spelling and be less case sensitive. 
